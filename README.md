@@ -50,44 +50,20 @@ Start the Streamlit app by running:
 ## 📷 UI Preview
 
 <div align="center">
-  <p><strong>Chat Interface</strong></p>
-  <img src="/assets/chat_interface.PNG" alt="Chat Interface" width="700">
+  <p><strong>Chat Window</strong></p>
+  <img src="/assets/chat_interface.PNG" alt="Chat Window" width="700">
 </div>
 <br>
 
 <div align="center">
-  <p><strong>Thinking Mode</strong></p>
-  <img src="/assets/thinking_mode.PNG" alt="Thinking Mode" width="700">
+  <p><strong>AI Thinking in Progress</strong></p>
+  <img src="/assets/thinking_mode.PNG" alt="AI Thinking in Progress" width="700">
 </div>
 <br>
 
 <div align="center">
-  <p><strong>Response</strong></p>
-  <img src="/assets/response.PNG" alt="Response" width="700">
-</div>
-<br>
-
-<div align="center">
-  <p><strong>Rename</strong></p>
-  <img src="/assets/rename.PNG" alt="Rename" width="700">
-</div>
-<br>
-
-<div align="center">
-  <p><strong>Renamed</strong></p>
-  <img src="/assets/renamed.PNG" alt="Renamed" width="700">
-</div>
-<br>
-
-<div align="center">
-  <p><strong>Delete</strong></p>
-  <img src="/assets/delete.PNG" alt="Delete" width="700">
-</div>
-<br>
-
-<div align="center">
-  <p><strong>Deleted</strong></p>
-  <img src="/assets/deleted.PNG" alt="Deleted" width="700">
+  <p><strong>AI Response</strong></p>
+  <img src="/assets/response.PNG" alt="AI Response" width="700">
 </div>
 <br>
 
