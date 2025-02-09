@@ -1,4 +1,4 @@
-# DeepSeekAssistant
+# DeepThink-GPT
 This project leverages DeepSeek-R1 and Streamlit to create a 100% locally running mini-ChatGPT app. It provides an interactive chat interface with real-time reasoning capabilities, making it a smart and efficient conversational assistant.
 
 ## Features
