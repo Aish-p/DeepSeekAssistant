@@ -1,6 +1,6 @@
 # 🧠 DeepThink: Your Smart, Local AI Chatbot
 
-DeepThink is a locally running AI chatbot built using DeepSeek Intelligence and Streamlit. This project showcases real-time reasoning, multi-chat support, and an intuitive interface—all running without internet or API keys.
+DeepThink is a streamlined, local AI chatbot built using DeepSeek Intelligence and Streamlit. This project showcases an interactive chat interface that mimics human-like reasoning, allowing users to engage in real-time AI conversations. With multi-chat support, users can create, rename, and manage conversations effortlessly—all while running 100% locally with no internet dependency. 🚀
 
 
 ## 🎯 Features  
